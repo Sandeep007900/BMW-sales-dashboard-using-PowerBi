@@ -9,7 +9,7 @@ This Power BI dashboard provides a detailed analysis of BMW's sales and performa
 ## 📷 Dashboard Preview
 
 <a href="dashboard-screenshot.png">
-  <img src="dashboard-screenshot.png" alt="Dashboard Screenshot" width="600"/>
+  <img src="BMW Dashboard Screenshot.png" alt="Dashboard Screenshot" width="600"/>
 </a>
 
 

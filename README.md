@@ -12,9 +12,13 @@ This Power BI dashboard provides a detailed analysis of BMW's sales and performa
   <img src="BMW Dashboard Screenshot.png" alt="Dashboard Screenshot" width="600"/>
 </a>
 
-
-
 ---
+## 📂 Dataset
+
+You can find the dataset used in this project here:  
+🔗 [BMW Sales Dataset (CSV)](https://github.com/Sandeep007900/BMW-sales-dashboard/blob/main/bmw.csv)
+
+
 
 ## 📊 Dashboard Overview
 
